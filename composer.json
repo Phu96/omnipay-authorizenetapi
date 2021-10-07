@@ -1,5 +1,5 @@
 {
-    "name": "academe/omnipay-authorizenetapi",
+    "name": "Phu96/omnipay-authorizenetapi",
     "type": "library",
     "description": "Authorize.Net payment gateway driver for the Omnipay 3.x payment processing library",
     "keywords": [
@@ -26,7 +26,7 @@
     "require": {
         "omnipay/common": "^3",
         "academe/authorizenet-objects": "~0.7",
-        "symfony/property-access": "^3.2 || ^4.0"
+        "symfony/property-access": "^3.2 || ^5.3"
     },
     "require-dev": {
         "omnipay/tests": "^3",
